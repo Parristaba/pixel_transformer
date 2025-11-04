@@ -3,7 +3,7 @@ from PIL import Image
 
 
 class PixelImage:
-    def __init__(self, image_path, target_size=(512, 512)):
+    def __init__(self, image_path, target_size=(1024, 1024)):
         self.path = image_path
         self.target_size = target_size
         # H x W x 3 array
