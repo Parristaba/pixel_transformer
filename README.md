@@ -1,9 +1,9 @@
-# ✨ PixelForge: Algorithmic Image Remapping
-
+# PixelForge: Algorithmic Image Remapping
+![Project Demo](Outputs/pixel_remap.gif)
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 **PixelForge** is a Python-based project that demonstrates advanced image processing and data visualization by performing a complete **pixel-level transformation** between two images. It takes the **color profile** of a source image and imposes it onto the **spatial structure** of a target image, creating a new, hybrid artwork.
 
@@ -18,7 +18,7 @@ The project's highlight is a **spatially-aware video transition** that visualize
 
 ---
 
-## 🛠️ Technical Implementation & Architecture
+## Technical Implementation & Architecture
 
 ### Algorithmic Breakdown: The Flaw and The Fix
 
@@ -40,7 +40,7 @@ The final seamless video transition is achieved by defining a unique movement pr
 
 ---
 
-## ⚙️ Project Structure & Usage
+## Project Structure & Usage
 
 ### Core Modules
 
