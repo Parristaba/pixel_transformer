@@ -5,7 +5,7 @@ from utils import calculate_luminosity
 import os
 
 
-TARGET_IMAGE_PATH = 'efne.jpg'
+TARGET_IMAGE_PATH = 'TargetData/peter.jpg'
 ORDER_OUTPUT_PATH = 'TargetData/target_brightness_order.joblib'
 SHAPE_OUTPUT_PATH = 'TargetData/target_shape.joblib'
 IMAGE_SIZE = (1024, 1024)
